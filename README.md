@@ -1,3 +1,21 @@
+## Executive Summary — Case 1
+Sales Dashboard & Reporting Automation
+
+Situation
+ธุรกิจมีข้อมูลยอดขายจากหลายแหล่ง ทำรายงานด้วยมือทุกวัน ข้อมูลไม่ตรงกัน และผู้บริหารมองภาพรวมได้ช้า
+
+Approach
+ออกแบบระบบดึงข้อมูลอัตโนมัติ รวมข้อมูลไว้ศูนย์กลาง ตรวจสอบความถูกต้อง และแสดงผลผ่านแดชบอร์ดที่ออกแบบเพื่อการตัดสินใจ
+
+Outcome
+ลดเวลาทำรายงานจากหลายชั่วโมงเหลือไม่กี่นาที
+สร้างแหล่งข้อมูลกลาง (Single Source of Truth)
+ผู้บริหารเห็นยอดขายและแนวโน้มได้เกือบเรียลไทม์
+
+Value Delivered
+เพิ่มความเร็วและความมั่นใจในการตัดสินใจทางธุรกิจ
+ลดความเสี่ยงจากงาน manual และข้อมูลผิดพลาด
+
 # Case Study 1 : Sales Dashboard & Reporting Automation
 
 ## Client Context
@@ -56,6 +74,21 @@ Designed an end-to-end automated data pipeline consisting of:
 
 ---
 
+## Executive Summary — Case 2
+API Integration for Internal Business Systems
+
+Situation
+องค์กรมีหลายระบบภายในที่ไม่เชื่อมต่อกัน ต้องโอนข้อมูลด้วยมือ ทำให้ช้า ผิดพลาดง่าย และขยายระบบได้ยาก
+Approach
+ออกแบบโครงสร้างการเชื่อมต่อด้วย API เพื่อให้ข้อมูลไหลอัตโนมัติ มีการแปลง ตรวจสอบ และจัดการข้อมูลแบบเป็นศูนย์กลาง
+Outcome
+ระบบต่าง ๆ ซิงก์ข้อมูลกันอัตโนมัติ
+ลดงาน manual และความผิดพลาดในการโอนข้อมูล
+โครงสร้างพร้อมรองรับระบบใหม่ในอนาคต
+
+Value Delivered
+เพิ่มประสิทธิภาพการทำงาน ลดต้นทุนแฝง
+สร้างรากฐานระบบที่ขยายได้ในระดับองค์กร
 # Case Study 2: API Integration for Internal Business Systems
 
 ## Client Context
@@ -109,6 +142,24 @@ Designed an API-driven integration architecture to:
 ระบบข้อมูลไหลอัตโนมัติ ลดงานมือ เพิ่มความถูกต้อง และรองรับการขยายระบบในอนาคต
 
 ---
+
+## Executive Summary — Case 3
+Internal Admin System for Business Operations
+
+Situation
+ธุรกิจใช้ Excel และเครื่องมือกระจัดกระจายในการจัดการงานภายใน ควบคุมสิทธิ์ยาก และมองภาพรวมการทำงานไม่ได้
+
+Approach
+พัฒนาระบบหลังบ้านแบบเว็บ รวมข้อมูลและกระบวนการทำงานไว้ในระบบเดียว พร้อมการกำหนดสิทธิ์ผู้ใช้และแดชบอร์ดภายใน
+
+Outcome
+การจัดการงานภายในเป็นระบบเดียว
+ทีมงานทำงานเร็วขึ้น ตรวจสอบย้อนหลังได้
+ลดการพึ่งพา spreadsheet และงานซ้ำซ้อน
+
+Value Delivered
+เพิ่มประสิทธิภาพการดำเนินงาน
+สร้างระบบภายในที่พร้อมต่อยอดและใช้งานระยะยาว
 
 # Case Study 3 : Internal Admin System for Business Operations
 
